@@ -1,4 +1,4 @@
-<img width="1894" height="889" alt="Screenshot 2025-10-03 114743" src="https://github.com/user-attachments/assets/6984a468-1d72-4144-a957-79954515b7e3" /># Coffee Break ☕
+# Coffee Break ☕
 
 > A learning project exploring full-stack development with React, real-time features, and third-party API integrations.
 
@@ -134,8 +134,7 @@ Search and discover new users to connect with:
 ###  Profile Management
 
 ![User Profile](<img width="1560" height="945" alt="Screenshot 2025-10-03 114134" src="https://github.com/user-attachments/assets/9ca73d77-183e-425f-b7c5-ac1c3c24cc2c" />)
-![User Edit Dashboard](<img width="649" height="922" alt="Screenshot 2025-10-05 235308" src="https://github.com/user-attachments/assets/1929ef81-3970-4901-a3e5-9d9481bb23ff" />
-)
+![User Edit Dashboard](<img width="649" height="922" alt="Screenshot 2025-10-05 235308" src="https://github.com/user-attachments/assets/1929ef81-3970-4901-a3e5-9d9481bb23ff" />)
 Comprehensive profile system with:
 
 - **Customizable Header** - Upload cover photo and profile picture
@@ -159,8 +158,7 @@ Simple yet powerful post creation:
 
 ###  Background Jobs (Inngest)
 
-![Inngest Dashboard](<img width="1894" height="889" alt="Screenshot 2025-10-03 114743" src="https://github.com/user-attachments/assets/409abaee-5f34-4505-b614-decfb38ac63f" />
-)
+![Inngest Dashboard](<img width="1894" height="889" alt="Screenshot 2025-10-03 114743" src="https://github.com/user-attachments/assets/409abaee-5f34-4505-b614-decfb38ac63f" />)
 
 Learned to implement reliable background job processing:
 
