@@ -65,7 +65,7 @@ The main feed is where users see all their content in one place:
 - **Message Contacts** - Quick access to recent conversations with unread message indicators
 
 ###  Story Creation & Viewing
-Create Story UI
+##  Create Story UI
 <img width="1441" height="1077" alt="Screenshot 2025-10-03 114219" src="https://github.com/user-attachments/assets/05158223-370f-4c90-8ca1-6f1649e5c85a" />
 
 One of the challenging features to implement was the story system:
@@ -76,10 +76,10 @@ One of the challenging features to implement was the story system:
 - **Auto-Advance** - Stories automatically progress after viewing
 - **24-Hour Auto-Deletion** - Background jobs remove expired stories
   
-Story image view
+##  Story image view
 
 <img width="1912" height="957" alt="Screenshot 2025-10-03 114451" src="https://github.com/user-attachments/assets/4a9187f3-9ced-47bc-8943-988d99421750" />
-story Text view
+##  story Text view
 
 <img width="1919" height="1075" alt="Screenshot 2025-10-03 114438" src="https://github.com/user-attachments/assets/f011a115-8c7d-4ee5-81dc-5803e12d7e51" />
 
@@ -90,7 +90,7 @@ The story viewer implements:
 - Smooth transitions between stories
 
 ###  Real-time Messaging
-Real time messages
+##  Real time messages
 <img width="1916" height="1024" alt="Screenshot 2025-10-05 234538" src="https://github.com/user-attachments/assets/32ff4ebf-af36-4d76-a765-4d454f4aa04c" />
 
 Implemented using Server-Sent Events (SSE):
@@ -102,12 +102,12 @@ Implemented using Server-Sent Events (SSE):
 - **Clean UI** - Modern chat interface with user avatars
 
 ###  Connections Management
-connections dasboard (following tab)
+##  connections dasboard (following tab)
 <img width="1270" height="655" alt="Screenshot 2025-10-05 234736" src="https://github.com/user-attachments/assets/c5bc3edc-60fe-46b1-8b65-7e99000f3884" />
-connections dasboard (follower tab)
+##  connections dasboard (follower tab)
 
 <img width="1197" height="754" alt="Screenshot 2025-10-05 234725" src="https://github.com/user-attachments/assets/fb7a0708-e4d2-4a1d-b861-34920a6d005e" />
-connections dasboard (connecitons tab)
+##  connections dasboard (connecitons tab)
 
 <img width="1915" height="1020" alt="Screenshot 2025-10-05 234708" src="https://github.com/user-attachments/assets/dbc7e112-9b19-45e1-abef-fa6469497d40" />
 
@@ -126,7 +126,7 @@ Each connection shows:
 - Follow/Unfollow functionality
 
 ###  User Discovery
-Discover Dashboard after search
+##  Discover Dashboard after search
 
 <img width="1256" height="1071" alt="Screenshot 2025-10-03 114024" src="https://github.com/user-attachments/assets/983fe90d-41a3-4a5c-aa46-061e09a40aef" />
 
@@ -140,12 +140,13 @@ Search and discover new users to connect with:
 - **Real-time Status** - See if you're already following someone
 
 ###  Profile Management
-profile  page view
+##  profile  page view
 <img width="1560" height="945" alt="Screenshot 2025-10-03 114134" src="https://github.com/user-attachments/assets/9ca73d77-183e-425f-b7c5-ac1c3c24cc2c" />
-edit profile view
+##  edit profile view
 <img width="649" height="922" alt="Screenshot 2025-10-05 235308" src="https://github.com/user-attachments/assets/1929ef81-3970-4901-a3e5-9d9481bb23ff" />
 
-Comprehensive profile system with:
+
+##  Comprehensive profile system with:
 
 - **Customizable Header** - Upload cover photo and profile picture
 - **User Statistics** - Display posts, followers, and following counts
@@ -154,10 +155,11 @@ Comprehensive profile system with:
 - **Edit Profile** - Easy access to profile customization
 
 ### ✍ Post Creation
-Created post can be seen on the Feeds
+##  Created post can be seen on the Feeds
 <img width="1903" height="1069" alt="Screenshot 2025-10-03 114417" src="https://github.com/user-attachments/assets/2ad23a55-3de3-4786-8f57-117ccffc9f77" />
-Create post page
+##  Create post page
 <img width="1765" height="1093" alt="Screenshot 2025-10-03 114354" src="https://github.com/user-attachments/assets/1878fca7-d7be-44ec-abee-8fbc4819e384" />
+
 
 Simple yet powerful post creation:
 
@@ -168,7 +170,7 @@ Simple yet powerful post creation:
 - **Author Display** - Profile picture and username shown prominently
 
 ###  Background Jobs (Inngest)
-INNGEST Runs dashboard 
+##  INNGEST Runs dashboard 
 <img width="1894" height="889" alt="Screenshot 2025-10-03 114743" src="https://github.com/user-attachments/assets/409abaee-5f34-4505-b614-decfb38ac63f" />
 
 Learned to implement reliable background job processing:
