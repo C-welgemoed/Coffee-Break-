@@ -54,7 +54,7 @@ Through building Coffee Break, I gained hands-on experience with:
 ###  Main Feed & Stories
 
 
-![Feed Interface](<img width="1904" height="1094" alt="Screenshot 2025-10-03 114232" src="https://github.com/user-attachments/assets/e9a8cb25-136a-494a-a96b-3f49608c768f" />)
+<img width="1904" height="1094" alt="Screenshot 2025-10-03 114232" src="https://github.com/user-attachments/assets/e9a8cb25-136a-494a-a96b-3f49608c768f" />
 
 The main feed is where users see all their content in one place:
 
@@ -66,7 +66,7 @@ The main feed is where users see all their content in one place:
 
 ###  Story Creation & Viewing
 
-![Story Creation Modal](<img width="1441" height="1077" alt="Screenshot 2025-10-03 114219" src="https://github.com/user-attachments/assets/05158223-370f-4c90-8ca1-6f1649e5c85a" />)
+(<img width="1441" height="1077" alt="Screenshot 2025-10-03 114219" src="https://github.com/user-attachments/assets/05158223-370f-4c90-8ca1-6f1649e5c85a" />
 
 One of the challenging features to implement was the story system:
 
@@ -76,8 +76,8 @@ One of the challenging features to implement was the story system:
 - **Auto-Advance** - Stories automatically progress after viewing
 - **24-Hour Auto-Deletion** - Background jobs remove expired stories
 
-![Story View Text](<img width="1912" height="957" alt="Screenshot 2025-10-03 114451" src="https://github.com/user-attachments/assets/4a9187f3-9ced-47bc-8943-988d99421750" />)
-![Story View Image](<img width="1919" height="1075" alt="Screenshot 2025-10-03 114438" src="https://github.com/user-attachments/assets/f011a115-8c7d-4ee5-81dc-5803e12d7e51" />)
+(<img width="1912" height="957" alt="Screenshot 2025-10-03 114451" src="https://github.com/user-attachments/assets/4a9187f3-9ced-47bc-8943-988d99421750" />
+(<img width="1919" height="1075" alt="Screenshot 2025-10-03 114438" src="https://github.com/user-attachments/assets/f011a115-8c7d-4ee5-81dc-5803e12d7e51" />
 
 The story viewer implements:
 - Progress bars showing viewing progress
@@ -87,8 +87,7 @@ The story viewer implements:
 
 ###  Real-time Messaging
 
-![Chat Interface](<img width="1916" height="1024" alt="Screenshot 2025-10-05 234538" src="https://github.com/user-attachments/assets/32ff4ebf-af36-4d76-a765-4d454f4aa04c" />
-)
+<img width="1916" height="1024" alt="Screenshot 2025-10-05 234538" src="https://github.com/user-attachments/assets/32ff4ebf-af36-4d76-a765-4d454f4aa04c" />
 
 Implemented using Server-Sent Events (SSE):
 
@@ -100,9 +99,9 @@ Implemented using Server-Sent Events (SSE):
 
 ###  Connections Management
 
-![Connections Page](<img width="1270" height="655" alt="Screenshot 2025-10-05 234736" src="https://github.com/user-attachments/assets/c5bc3edc-60fe-46b1-8b65-7e99000f3884" />)
-![Connections Page](<img width="1197" height="754" alt="Screenshot 2025-10-05 234725" src="https://github.com/user-attachments/assets/fb7a0708-e4d2-4a1d-b861-34920a6d005e" />)
-![Connections Page](<img width="1915" height="1020" alt="Screenshot 2025-10-05 234708" src="https://github.com/user-attachments/assets/dbc7e112-9b19-45e1-abef-fa6469497d40" />)
+<img width="1270" height="655" alt="Screenshot 2025-10-05 234736" src="https://github.com/user-attachments/assets/c5bc3edc-60fe-46b1-8b65-7e99000f3884" />
+<img width="1197" height="754" alt="Screenshot 2025-10-05 234725" src="https://github.com/user-attachments/assets/fb7a0708-e4d2-4a1d-b861-34920a6d005e" />
+<img width="1915" height="1020" alt="Screenshot 2025-10-05 234708" src="https://github.com/user-attachments/assets/dbc7e112-9b19-45e1-abef-fa6469497d40" />
 
 A comprehensive connection system with multiple relationship types:
 
@@ -120,7 +119,7 @@ Each connection shows:
 
 ###  User Discovery
 
-![Discover Page](<img width="1256" height="1071" alt="Screenshot 2025-10-03 114024" src="https://github.com/user-attachments/assets/983fe90d-41a3-4a5c-aa46-061e09a40aef" />)
+<img width="1256" height="1071" alt="Screenshot 2025-10-03 114024" src="https://github.com/user-attachments/assets/983fe90d-41a3-4a5c-aa46-061e09a40aef" />
 
 
 Search and discover new users to connect with:
@@ -133,8 +132,8 @@ Search and discover new users to connect with:
 
 ###  Profile Management
 
-![User Profile](<img width="1560" height="945" alt="Screenshot 2025-10-03 114134" src="https://github.com/user-attachments/assets/9ca73d77-183e-425f-b7c5-ac1c3c24cc2c" />)
-![User Edit Dashboard](<img width="649" height="922" alt="Screenshot 2025-10-05 235308" src="https://github.com/user-attachments/assets/1929ef81-3970-4901-a3e5-9d9481bb23ff" />)
+<img width="1560" height="945" alt="Screenshot 2025-10-03 114134" src="https://github.com/user-attachments/assets/9ca73d77-183e-425f-b7c5-ac1c3c24cc2c" />
+<img width="649" height="922" alt="Screenshot 2025-10-05 235308" src="https://github.com/user-attachments/assets/1929ef81-3970-4901-a3e5-9d9481bb23ff" />
 Comprehensive profile system with:
 
 - **Customizable Header** - Upload cover photo and profile picture
@@ -145,8 +144,8 @@ Comprehensive profile system with:
 
 ### ✍ Post Creation
 
-![Create Post](<img width="1903" height="1069" alt="Screenshot 2025-10-03 114417" src="https://github.com/user-attachments/assets/2ad23a55-3de3-4786-8f57-117ccffc9f77" />)
-![Post can be seen on Feed]<img width="1765" height="1093" alt="Screenshot 2025-10-03 114354" src="https://github.com/user-attachments/assets/1878fca7-d7be-44ec-abee-8fbc4819e384" />)
+<img width="1903" height="1069" alt="Screenshot 2025-10-03 114417" src="https://github.com/user-attachments/assets/2ad23a55-3de3-4786-8f57-117ccffc9f77" />
+<img width="1765" height="1093" alt="Screenshot 2025-10-03 114354" src="https://github.com/user-attachments/assets/1878fca7-d7be-44ec-abee-8fbc4819e384" />
 
 Simple yet powerful post creation:
 
@@ -158,7 +157,7 @@ Simple yet powerful post creation:
 
 ###  Background Jobs (Inngest)
 
-![Inngest Dashboard](<img width="1894" height="889" alt="Screenshot 2025-10-03 114743" src="https://github.com/user-attachments/assets/409abaee-5f34-4505-b614-decfb38ac63f" />)
+<img width="1894" height="889" alt="Screenshot 2025-10-03 114743" src="https://github.com/user-attachments/assets/409abaee-5f34-4505-b614-decfb38ac63f" />
 
 Learned to implement reliable background job processing:
 
