@@ -75,9 +75,12 @@ One of the challenging features to implement was the story system:
 - **Interactive Viewer** - Fullscreen story viewer with tap-to-advance navigation
 - **Auto-Advance** - Stories automatically progress after viewing
 - **24-Hour Auto-Deletion** - Background jobs remove expired stories
+  
 Story image view
+
 <img width="1912" height="957" alt="Screenshot 2025-10-03 114451" src="https://github.com/user-attachments/assets/4a9187f3-9ced-47bc-8943-988d99421750" />
 story Text view
+
 <img width="1919" height="1075" alt="Screenshot 2025-10-03 114438" src="https://github.com/user-attachments/assets/f011a115-8c7d-4ee5-81dc-5803e12d7e51" />
 
 The story viewer implements:
@@ -141,6 +144,7 @@ profile  page view
 <img width="1560" height="945" alt="Screenshot 2025-10-03 114134" src="https://github.com/user-attachments/assets/9ca73d77-183e-425f-b7c5-ac1c3c24cc2c" />
 edit profile view
 <img width="649" height="922" alt="Screenshot 2025-10-05 235308" src="https://github.com/user-attachments/assets/1929ef81-3970-4901-a3e5-9d9481bb23ff" />
+
 Comprehensive profile system with:
 
 - **Customizable Header** - Upload cover photo and profile picture
@@ -150,12 +154,11 @@ Comprehensive profile system with:
 - **Edit Profile** - Easy access to profile customization
 
 ### ✍ Post Creation
-<p align="left">
 Created post can be seen on the Feeds
 <img width="1903" height="1069" alt="Screenshot 2025-10-03 114417" src="https://github.com/user-attachments/assets/2ad23a55-3de3-4786-8f57-117ccffc9f77" />
 Create post page
 <img width="1765" height="1093" alt="Screenshot 2025-10-03 114354" src="https://github.com/user-attachments/assets/1878fca7-d7be-44ec-abee-8fbc4819e384" />
->
+
 Simple yet powerful post creation:
 
 - **Rich Text** - Create posts with text content
