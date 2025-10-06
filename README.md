@@ -13,12 +13,15 @@ Coffee Break is a **personal learning project** I built to deepen my understandi
 - Creating a complete full-stack application from scratch
 
 This project represents my journey in learning how to architect and build a production-ready social media platform using the MERN stack and modern development tools.
+
+##  [Live Link](https://coffee-break-zeta.vercel.app)
+
 ##  Private Repo Evidance
 <img width="1285" height="802" alt="Screenshot 2025-10-06 104513" src="https://github.com/user-attachments/assets/3a9dc876-5f02-4516-bf1b-817d42810874" />
 
 
 
-## ** [Live Link](https://coffee-break-zeta.vercel.app)**
+
 
 ---
 
