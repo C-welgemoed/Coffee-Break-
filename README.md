@@ -17,7 +17,8 @@ This project represents my journey in learning how to architect and build a prod
 <img width="1285" height="802" alt="Screenshot 2025-10-06 104513" src="https://github.com/user-attachments/assets/3a9dc876-5f02-4516-bf1b-817d42810874" />
 
 
-** [Live Link](https://coffee-break-zeta.vercel.app)**
+
+## ** [Live Link](https://coffee-break-zeta.vercel.app)**
 
 ---
 
